@@ -29,8 +29,18 @@ This application will be compatible with desktop and mobile browsers, and will s
 ## Weekly 4-Ups
 [Week 3 (09/10/24 - 09/16/24)](4ups/4-up%20Week%203%20.docx.pdf)<br />
 [Week 4 (09/17/24 - 09/23/24)](4ups/4-up%20Week%204.docx.pdf)<br />
+[Week 5 (09/24/24 - 09/30/24)](4ups/4-up%20Week%205.docx.pdf)<br />
+[Week 6 (10/01/24 - 10/07/24)](4ups/4-up%20Week%206.docx.pdf)<br />
+[Week 7 (10/08/24 - 10/14/24)](4ups/4-up%20Week%207.docx.pdf)<br />
 
 ## Weekly Sponsor Meeting Agendas
 [Week 3 (09/10/24)](agendas/Senior%20Project%20Agenda%209.10.pdf)<br />
 [Week 4 (09/17/24)](agendas/Meeting%20Agenda%209_17.docx-2.pdf)<br />
 [Week 5 (09/24/24)](agendas/Meeting%20Agenda%209_24.docx.pdf)<br />
+[Week 6 (10/01/24)](agendas/Meeting%20Agenda%2010_1.docx-2.pdf)<br />
+
+## Project Artifacts
+[Domain Model](docs/WiC%20Domain%20Model.pdf)<br />
+[Development Methodology](docs/Development%20Methodology.pdf)<br />
+[Project Plan](docs/Project%20Plan.pdf)<br />
+[Metrics](docs/Process%20and%20Product%20Metrics.pdf)<br />
