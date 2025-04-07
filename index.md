@@ -11,6 +11,8 @@ The WiC Active Membership Tracker is a web application that aims to automate thi
 
 This application will be compatible with desktop and mobile browsers, and will support the accessibility needs of all users.
 
+[Current Staging Web Server](https://wic-staging.gccis.rit.edu/)
+
 ## Project Information
 **Project Name:** RIT Women in Computing Active Membership Tracker<br />
 **Team Name:** Lucid Llamas<br />
@@ -21,8 +23,8 @@ This application will be compatible with desktop and mobile browsers, and will s
 **Peyton Wagner:** Sponsor Communication Lead<br />
 **Paul Bonargo:** Scrum Master<br />
 **Anjan Maharjan:** Backend/Server Technical Lead<br />
-**Noah Harbinger**<br />
-**Xuhang Yuan**<br />
+**Noah Harbinger:** Frontend Technical Lead<br />
+**Xuhang Yuan:** Resident Tester<br />
 
 *Team roles will rotate throughout the project. Additional technical lead roles will be added once development begins.
 
